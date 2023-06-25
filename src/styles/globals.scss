@@ -1,0 +1,44 @@
+:root {
+  width: 1200px;
+  margin: 0 auto;
+
+  .carsWrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+
+  .btnOrig {
+    display: block;
+    margin-bottom: 15px;
+  }
+
+  .carousel-control-prev {
+    display: none;
+  }
+
+  .carousel-control-next {
+    display: none;
+  }
+
+  .btnRemove {
+    background-color: #861414;
+    border-color: #861414;
+    display: block;
+    position: absolute;
+    margin-left: auto;
+    margin-bottom: 15px;
+
+    &:hover {
+      color: white;
+      background-color: red;
+      border-color: red;
+    }
+  }
+
+  span {
+    font-weight: 500;
+    text-decoration: underline;
+  }
+
+}

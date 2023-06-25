@@ -1,0 +1,149 @@
+{
+  "cars": [
+    {
+      "options": [
+        {
+          "option_name": "Климат-контроль"
+        },
+        {
+          "option_name": "Кожаный руль"
+        }
+      ],
+      "name": "Kia Sportage",
+      "description": "1973 года выпуска, в отличном состоянии. Пробег 200000 км.",
+      "price": 150000000,
+      "contacts": "seller@mail.ru",
+      "images": [
+        "https://i.pinimg.com/originals/9c/93/35/9c933535f657a4ff212179064bc64a12.jpg",
+        "https://i.pinimg.com/originals/b1/0f/8d/b10f8d5d7cf8f297033a83e737128da0.jpg"
+      ],
+      "technical_characteristics": {
+        "brand": "Kia",
+        "model": "AR30",
+        "productionYear": 2007,
+        "body": "body",
+        "mileage": "2600000"
+      },
+      "id": 1
+    },
+    {
+      "name": "Toyota Camri",
+      "description": "1973 года выпуска, в отличном состоянии. Пробег 200000 км.",
+      "price": 9960000,
+      "contacts": "seller@mail.ru",
+      "images": [
+        "https://w.forfun.com/fetch/e4/e4827f228c6f874e6b089a43254cd61a.jpeg",
+        "https://images.hdqwalls.com/download/mclaren-650s-2016-3840x2400.jpg"
+      ],
+      "technical_characteristics": {
+        "brand": "Toyota",
+        "model": "NJ91",
+        "productionYear": 2022,
+        "body": "body",
+        "mileage": "206000"
+      },
+      "options": [
+        {
+          "option_name": "Климат-контроль"
+        },
+        {
+          "option_name": "Кожаный руль"
+        },
+        {
+          "option_name": "Центральный замок"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Vaz, 2006",
+      "description": "1973 года выпуска, в отличном состоянии. Пробег 200000 км.",
+      "price": 7260000,
+      "contacts": "seller@mail.ru",
+      "images": [
+        "https://u-stena.ru/upload/iblock/2b0/2b0bd0da52b5920ba016f66ce7680b0e.jpg",
+        "https://i.pinimg.com/736x/22/82/76/228276699acef4ce278d11d85ea4e600--sweet-cars-ferrari-.jpg"
+      ],
+      "options": [
+        {
+          "option_name": "Климат-контроль"
+        },
+        {
+          "option_name": "Кожаный руль"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Mazda CX-5, 2008",
+      "description": "1973 года выпуска, в отличном состоянии. Пробег 200000 км.",
+      "price": 5652000,
+      "contacts": "seller@mail.ru",
+      "images": [
+        "https://i.pinimg.com/originals/2f/39/4a/2f394af05abb0d09cfa6bbebabf06189.jpg",
+        "https://i.pinimg.com/originals/b1/0f/8d/b10f8d5d7cf8f297033a83e737128da0.jpg"
+      ],
+      "options": [],
+      "technical_characteristics": {
+        "brand": "Mazda",
+        "model": "CX-5",
+        "productionYear": 2007,
+        "body": "Sedan",
+        "mileage": "52100"
+      },
+      "id": 4
+    },
+    {
+      "id": 5,
+      "images": [
+        "https://i.pinimg.com/originals/2f/39/4a/2f394af05abb0d09cfa6bbebabf06189.jpg",
+        "https://i.pinimg.com/originals/b1/0f/8d/b10f8d5d7cf8f297033a83e737128da0.jpg"
+      ],
+      "name": "Volvo XC70, 2007",
+      "description": "1973 года выпуска, в отличном состоянии. Пробег 200000 км.",
+      "price": 1500000,
+      "contacts": "seller@mail.ru",
+      "technical_characteristics": {
+        "brand": "Volvo",
+        "model": "XC70",
+        "productionYear": 2007,
+        "body": "body",
+        "mileage": 200000
+      },
+      "options": [
+        {
+          "option_name": "Климат-контроль"
+        },
+        {
+          "option_name": "Кожаный руль"
+        },
+        {
+          "option_name": "Центральный замок"
+        }
+      ]
+    },
+    {
+      "name": "Lada granta",
+      "description": "1973 года выпуска, в отличном состоянии. Пробег 200000 км.",
+      "price": 1500000,
+      "contacts": "seller@mail.ru",
+      "images": [
+        "https://i.pinimg.com/originals/9c/93/35/9c933535f657a4ff212179064bc64a12.jpg",
+        "https://i.pinimg.com/originals/b1/0f/8d/b10f8d5d7cf8f297033a83e737128da0.jpg"
+      ],
+      "technical_characteristics": {
+        "brand": "Lada",
+        "model": "XP90",
+        "productionYear": 2004,
+        "body": "Coupe",
+        "mileage": "30000"
+      },
+      "options": [
+        {
+          "option_name": "Климат-контроль"
+        }
+      ],
+      "id": 6
+    }
+  ]
+}
